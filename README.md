@@ -4,6 +4,13 @@
 
 ---
 
+## ⚙️ Installation
+ - **CMD öffnen**
+ - **zum verzeichnis**
+ - **dann npm i**
+ - **und dann starten mit node server.js**
+---
+
 ## 🚀 Aktuelle Features
 
 - ✅ **Server erstellen** – Erstelle mit wenigen Klicks deinen eigenen Minecraft-Server.
@@ -16,6 +23,7 @@
 ## 🛠️ In Arbeit / Bald verfügbar
 
 - 📦 **Modul-System** – Aktiviere und verwalte Module direkt im Panel.
+- 🐧 **Linux Support**
 - 📜 **Bewerbungssystem** – Bewerbungen fürs Team direkt über das Dashboard verwalten.
 - 🔄 **Auto-Updater** – Automatische Updates für das Panel und Server-Komponenten.
 - 🧱 **Weitere Minecraft-Versionen** – Unterstützung für mehr Server-Versionen.
