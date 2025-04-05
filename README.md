@@ -2,6 +2,8 @@
 
 **Neflus Panel** ist ein benutzerfreundliches und leistungsstarkes Webinterface zur Verwaltung von Minecraft-Servern. Es richtet sich sowohl an Anfänger als auch erfahrene Nutzer, die ihre Server einfach und effizient steuern wollen.
 
+!!!Bis der Chat übertragen wurde dauert es was wenn man z.b. auf die einstellung geht und dann zurück!!!
+
 ---
 
 ## ⚙️ Installation
