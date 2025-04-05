@@ -61,7 +61,7 @@ Du hast Ideen oder möchtest mitentwickeln? Öffne ein Issue oder schick uns ein
 
 ## 📬 Kontakt
 
-Bei Fragen oder Feedback, erreich uns auf [Discord] oder direkt über das Projekt hier auf GitHub.
+Bei Fragen oder Feedback, erreich uns auf https://discord.gg/wmphVGf5fx oder direkt über das Projekt hier auf GitHub.
 
 ---
 
